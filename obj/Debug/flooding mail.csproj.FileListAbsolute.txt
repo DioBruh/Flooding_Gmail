@@ -1,0 +1,7 @@
+C:\Users\joaov\source\repos\flooding mail\flooding mail\bin\Debug\flooding mail.exe.config
+C:\Users\joaov\source\repos\flooding mail\flooding mail\bin\Debug\flooding mail.exe
+C:\Users\joaov\source\repos\flooding mail\flooding mail\bin\Debug\flooding mail.pdb
+C:\Users\joaov\source\repos\flooding mail\flooding mail\obj\Debug\flooding mail.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\flooding mail\flooding mail\obj\Debug\flooding mail.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\flooding mail\flooding mail\obj\Debug\flooding mail.exe
+C:\Users\joaov\source\repos\flooding mail\flooding mail\obj\Debug\flooding mail.pdb
