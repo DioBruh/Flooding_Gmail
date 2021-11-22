@@ -6,8 +6,7 @@
 <html>
   <head>
     <body>
-      <h1>Meu pix para eu comprar um café :D</h1>
-      <h2>"25ef499b-d184-4aa1-9797-0a294be40d83"</h2>
+
     </body>
   </head>
 </html>
