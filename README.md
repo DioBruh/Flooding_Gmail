@@ -24,7 +24,7 @@
 ### ❗❗ Atenção
 * Crie um `Email Secundario` para usar neste script.
 
-### 💻 Pré-requisitos
+## 💻 Pré-requisitos
 * Você tem a ultima versão do `.Net Framework`.
 * Você tem uma máquina com `Windows 10` Instalado.
 * Você colocou seu `email` para aceitar 'conexões menos seguras'.
