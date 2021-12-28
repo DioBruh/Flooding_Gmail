@@ -23,11 +23,22 @@ namespace flooding_mail
 / /_/ / / /_/ /
 \__,_/_/\____/ 
 ";
-            Console.WriteLine(baner);Thread.Sleep(2000);
+            Console.WriteLine(baner);
+            Thread.Sleep(2000);
             Console.Clear();
-            Console.WriteLine("Ative o login de baixa segurança no seu\nemail.");Thread.Sleep(1500);Console.Clear();
-            Console.WriteLine("Login");Console.Write(">> ");string login = Console.ReadLine();Console.Clear();
-            Console.WriteLine("Senha");Console.Write(">> ");
+            
+            Console.WriteLine("Ative o login de baixa segurança no seu\nemail.");
+            Thread.Sleep(1500);
+            Console.Clear();
+            Console.WriteLine("Login");
+            Console.Write(">> ");
+            
+            string login = Console.ReadLine();
+            Console.Clear();
+            
+            Console.WriteLine("Senha");
+            Console.Write(">> ");
+            
             var pass = string.Empty;
             ConsoleKey key;
             do
@@ -45,9 +56,14 @@ namespace flooding_mail
                     pass += keyInfo.KeyChar;
                 }
             } while (key != ConsoleKey.Enter);
-            Console.Clear(); Console.WriteLine("email do alvo"); Console.Write(">> "); string email_alvo = Console.ReadLine();
+            Console.Clear(); 
+            Console.WriteLine("email do alvo");
+            
+            Console.Write(">> ");
+            string email_alvo = Console.ReadLine();
             var fromAddress = new MailAddress(login);
             var toAddress = new MailAddress(email_alvo);
+            
             string fromPassword = pass;
             const string subject = "Subject";
             string body = random(256);
