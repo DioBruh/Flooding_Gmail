@@ -32,7 +32,7 @@
 
 ## ☕ Usando o script
 
-Para usar o malware, siga estas etapas:
+Para usar a ferramenta, siga estas etapas:
 * Compile ele pelo `dotnet run`, ou pelo `Visual Studio 2019` ou superior. 
 
 
